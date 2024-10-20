@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490905988751",
+    "project_id": "datastructures-84577",
+    "storage_bucket": "datastructures-84577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490905988751:android:07a30503b7db96a821cafa",
+        "android_client_info": {
+          "package_name": "com.example.datastructures"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw2fgKS2DFu9df0Ph2pmFYuLqsIKgCn8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
